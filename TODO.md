@@ -1,0 +1,12 @@
+- Add some more cool tiles.
+	- Add some ones that loop around and stuff.
+- Add a tutorial.
+- Add some more pickups.
+- Add a store(?)
+- Add more themes.
+- Add a random theme selector.
+- Add pre-definded tracks for multiplayer(?)
+- Add a way to seed tile generator so each track is the same.
+	- Then I could generate a track on the local client and not have to worry about one client destroying a tile while someone else is in it and still be able to manage the amount of tiles in the world.
+- Figure out navmesh for spline tracks.
+- Add a spline mesh track generator.
