@@ -1,3 +1,5 @@
+*WARNING* I FORGOT TO MULTIPLY THE MOVEMENT CODE BY DELTA SECONDS. THIS CAN CAUSE SOME ISSUES. I'LL HAVE IT FIXED WHEN I GET TIME!
+
 I decided to start getting into game development, and my friend suggested that I try this out first.
 
 The goal was to get an idea of how Unreal Engine works with some basic fundamentals. 
